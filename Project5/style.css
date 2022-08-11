@@ -1,0 +1,26 @@
+
+body {
+box-sizing: border-box;
+background-image: url("./imani.jpg");
+image-rendering: auto;
+
+}
+button{
+background-color:rgb(249, 154, 154);
+margin: 0;
+border:0;
+border-radius: 12px;
+padding: 9px;
+font-weight: bold;
+}
+h1 {
+background-color:yellow;
+font-style: oblique;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+align-items: center;
+}
+label {
+    text-decoration: none;
+    color:black;
+}
